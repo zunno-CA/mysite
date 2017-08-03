@@ -1,8 +1,8 @@
-#My Resume
+# My Resume
 
 ## Experience
 
-###Information Professional
+### Information Professional
 
   - Manages Information
       - Books and such
