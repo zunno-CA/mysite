@@ -10,8 +10,7 @@
 
 [USC Library](libraries.usc.edu)  
 
-
-  ### Code Examples
+### Code Examples
 
   ```
   echo "Hello world"
